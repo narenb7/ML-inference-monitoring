@@ -1,8 +1,3 @@
-<p align = "center" draggable=”false” ><img src="https://user-images.githubusercontent.com/37101144/161836199-fdb0219d-0361-4988-bf26-48b0fad160a3.png"
-     width="200px"
-     height="auto"/>
-</p>
-
 
 
 # <h1 align="center" id="heading">Monitoring Sentiment Analysis on Nvidia Triton with Prometheus and Grafana on EC2</h1>
@@ -17,18 +12,6 @@ At the end of this session, you will have a brief understanding of how to:
 - [ ] Deploy Grafana and Prometheus
 - [ ] Create a Grafana dashboard to monitor Nvidia Triton Server
 
-
-
-## Tasks
-There's only one tasks for this session.
-1. Complete the directions in this README
-
-
-## How to Submit GitHub Exercise
-
-- Screenshot of Docker running using `docker ps`
-- Screenshot of S3 Model Repository
-- Screenshot of Prometheus & Grafana Dashboard with Metrics
 
 # Nvidia Triton Server
 
